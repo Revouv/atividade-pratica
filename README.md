@@ -1,6 +1,8 @@
 # Atividade Prática — Meu Primeiro Circuito no Tinkercad.
 <img width="1141" height="793" alt="tinkercad-jogo-da-memoria jpg" src="https://github.com/user-attachments/assets/59037cc3-795f-42ae-b8c2-29176f5ad8a8" />
 
+> *Fig. 1 — Circuito montado no Tinkercad.*
+
 ## Jogo da Memória com Arduino:
 ---
 
@@ -11,15 +13,12 @@
 🔗 [Jogo da Memória com Arduino — Tinkercad](https://www.tinkercad.com/things/7XOxxUSO116-jogo-da-memoria-com-arduino?sharecode=vn7mSqJRMt3UM_O_AFWQkAWHZ3bv7oOwFPOeOOk8kqU)
 
 ## 3. Print do projeto
-Montagem do circuito no Tinkercad — Arduino Uno, 4 LEDs com resistores no cátodo, 4 push buttons e buzzer sobre protoboard:
-
-🔗 [Código-fonte Arduino](arduino_code.cpp)
-
-> *Fig. 1 — Circuito montado no Tinkercad.*
+Montagem do circuito no Tinkercad: Arduino Uno, 4 LEDs com resistores no cátodo, 4 push buttons e buzzer sobre protoboard.
+Imagem anexada no começo do arquivo READ.ME.
 
 ## 4. Código utilizado
 
-Arquivo: .....
+🔗 [Código-fonte Arduino](arduino_code.cpp)
 
 ## 5. Respostas às perguntas propostas:
 
