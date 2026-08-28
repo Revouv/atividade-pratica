@@ -13,7 +13,7 @@
 ## 3. Print do projeto
 Montagem do circuito no Tinkercad — Arduino Uno, 4 LEDs com resistores no cátodo, 4 push buttons e buzzer sobre protoboard:
 
-![Circuito montado no Tinkercad](./images/circuito-tinkercad.png)
+🔗 [Código-fonte Arduino](arduino_code.cpp)
 
 > *Fig. 1 — Circuito montado no Tinkercad.*
 
