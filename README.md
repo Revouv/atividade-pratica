@@ -8,6 +8,9 @@
 
 ## 1. Nome do projeto
 **Jogo da Memória com Arduino (Genius)**
+Veja também o projeto no Github:
+🔗 [Jogo da Memória com Arduino — GitHub](https://github.com/Revouv/atividade-pratica.git)
+
 
 ## 2. Link do projeto no Tinkercad
 🔗 [Jogo da Memória com Arduino — Tinkercad](https://www.tinkercad.com/things/7XOxxUSO116-jogo-da-memoria-com-arduino?sharecode=vn7mSqJRMt3UM_O_AFWQkAWHZ3bv7oOwFPOeOOk8kqU)
@@ -18,7 +21,7 @@ Imagem anexada no começo do arquivo READ.ME.
 
 ## 4. Código utilizado
 
-🔗 [Código-fonte Arduino](arduino_code.cpp)
+🔗 [Jogo da Memória com Arduino — Código-fonte](arduino_code.cpp)
 
 ## 5. Respostas às perguntas propostas:
 
