@@ -35,7 +35,7 @@ Os mesmos definidos no tutorial de referência:
 > 1 Protoboard (830 pontos);
 > 4 LEDs de 5 mm (vermelho, verde, azul e amarelo);
 > 4 Resistores (ligados ao catodo de cada LED, para limitar a corrente);
-> 4 Push buttons (chave táctil), sem resistor externo — usa-se o pull-up interno do Arduino;
+> 4 Push buttons (chave táctil), sem resistor externo. Usa-se o pull-up interno do Arduino;
 > 1 Buzzer, para o retorno sonoro de cada LED e do game over;
 > Jumpers (cabos macho/macho) para todas as conexões.
 
